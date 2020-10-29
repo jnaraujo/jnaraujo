@@ -3,6 +3,10 @@
 
 🔭 I’am currently working with NodeJs, Python, HTML, CSS and bugs <br>
 🌱 I’m currently learning about Discord™ bots and how to write a better code (no progress yet)
+
+![Jônatas's github stats](https://github-readme-stats.vercel.app/api?username=jnaraujo&theme=dracula)
+
+
 <!--
 **jnaraujo/jnaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
