@@ -5,7 +5,6 @@
 🤓 I’m currently learning about Discord™ bots, Golang and how to write a better code (no progress yet)
 
 ![Jônatas's github stats](https://github-readme-stats.vercel.app/api?username=jnaraujo&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnaraujo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
