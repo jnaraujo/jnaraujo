@@ -4,7 +4,8 @@
 🔭 I’am currently working with NodeJs, Python, HTML, CSS and bugs <br>
 🤓 I’m currently learning about Discord™ bots, Golang and how to write a better code (no progress yet)
 
-![Jônatas's github stats](https://github-readme-stats.vercel.app/api?username=jnaraujo&theme=dracula)
+![jnaraujo's github stats](https://github-readme-stats.vercel.app/api?username=jnaraujo&theme=dracula)
+[![jnaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jnaraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
