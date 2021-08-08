@@ -2,10 +2,16 @@
 ![cat](https://camo.githubusercontent.com/ddabca49cb950ff1377c8452d7ec32d017b07780/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3734353335343532353935383939363133382e6769663f763d31)
 
 🔭 I’am currently working with NodeJs, Python, HTML, CSS and bugs <br>
-🤓 I’m currently learning about Discord™ bots, Golang and how to write a better code (no progress yet)
+🤓 I’m currently learning about Discord™ bots, Golang and how to write a better code (no progress yet)<br>
+📫 How to reach me: [my website](https://jnaraujo.vercel.app/)
 
 ![jnaraujo's github stats](https://github-readme-stats.vercel.app/api?username=jnaraujo&theme=dracula)
-[![jnaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jnaraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+  <summary><b>📈 This week I spent my time on</b></summary><br>
+  
+  [![jnaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jnaraujo&layout=compact&hide_title=true&hide_border=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 
 <!--
