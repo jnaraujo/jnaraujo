@@ -3,7 +3,7 @@
 
 🔭 I’am currently working with NodeJs, Python, HTML, CSS and bugs <br>
 🤓 I’m currently learning about Discord™ bots, Typescript and ReactJS<br>
-📫 How to reach me: [my website](https://jnaraujo.vercel.app/)
+📫 Reach me on [my website](https://jnaraujo.vercel.app/)
 
 ![jnaraujo's github stats](https://github-readme-stats.vercel.app/api?username=jnaraujo&theme=dracula)
 
