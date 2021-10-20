@@ -8,9 +8,9 @@
 ![jnaraujo's github stats](https://github-readme-stats.vercel.app/api?username=jnaraujo&theme=dracula)
 
 <details>
-  <summary><b>📈 This week I spent my time on</b></summary><br>
+  <summary><b>📈 Most Used Languages</b></summary><br>
   
-  [![jnaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jnaraujo&layout=compact&hide_title=true&theme=dracula&hide_border=true&langs_count=5&v=2)](https://github.com/anuraghazra/github-readme-stats)
+  [![jnaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jnaraujo&layout=compact&hide_title=true&theme=dracula&hide_border=true&langs_count=5&v=2)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
