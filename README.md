@@ -4,7 +4,7 @@
 🔭 I’am currently working with React.JS (w/ NextJS), NodeJs, Python and bugs <br>
 🤓 I’m currently learning about TypeScript and React applications<br>
 
-## 📫 Reach me on:
+## 📫 You can reach me on:
 
 [<img src="https://img.shields.io/badge/My%20Website-jnaraujo.vercel.app-blueviolet?style=for-the-badge">](https://jnaraujo.vercel.app/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge">](https://www.linkedin.com/in/jnaraujo/)
