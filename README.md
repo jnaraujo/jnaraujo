@@ -6,7 +6,7 @@
 
 ## 📫 You can reach me on:
 
-[<img src="https://img.shields.io/badge/My%20Website-jnaraujo.vercel.app-blueviolet?style=for-the-badge">](https://jnaraujo.vercel.app/)
+[<img src="https://img.shields.io/badge/My%20Website-jnaraujo.com-blueviolet?style=for-the-badge">](https://jnaraujo.com/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge">](https://www.linkedin.com/in/jnaraujo/)
 
 <!-- 
