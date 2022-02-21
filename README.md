@@ -1,6 +1,10 @@
 ### Hey there 👋
 ![cat](https://camo.githubusercontent.com/ddabca49cb950ff1377c8452d7ec32d017b07780/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3734353335343532353935383939363133382e6769663f763d31)
 
+My name is Jonatas. I'm a Brazilian front-end developer who loves to develop projects.
+
+## Some facts about me:
+
 🔭 I’am currently working with React.JS (w/ NextJS), NodeJs, Python and bugs <br>
 🤓 I’m currently learning about TypeScript and React applications<br>
 
