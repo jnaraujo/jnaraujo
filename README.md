@@ -26,8 +26,6 @@ My name is Jonatas. I'm a Brazilian front-end developer who loves to develop pro
   
   [![jnaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jnaraujo&layout=compact&hide_title=true&theme=dracula&hide_border=true&langs_count=5&v=2)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-
 <!--
 **jnaraujo/jnaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
