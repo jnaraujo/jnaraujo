@@ -1,17 +1,15 @@
 ### Hey there 👋
-![cat](https://camo.githubusercontent.com/ddabca49cb950ff1377c8452d7ec32d017b07780/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3734353335343532353935383939363133382e6769663f763d31)
 
-My name is Jonatas. I'm a Brazilian front-end developer who loves to develop projects. <br>
-I'm currently studying Computer Engineering at Universidade Estadual de Feira de Santana.
+<p align="left"> My name is Jonatas. I'm a Brazilian front-end developer who loves to develop user-focused applications.<br> I’am currently working with ReactJS (w/ NextJS) and Typescript, but I've also developed projects with Python, Javascript, Java etc.<br> </p>
 
-## Some facts about me:
-
-🔭 I’am currently working with React.JS (w/ NextJS), NodeJs, Python and bugs <br>
-🤓 I’m currently learning about TypeScript and React applications<br>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
+<code><img height="20" alt="styled-components" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>    
 
 ## 📫 You can reach me on:
 
-[<img src="https://img.shields.io/badge/My%20Website-jnaraujo.com-blueviolet?style=for-the-badge">](https://jnaraujo.com/)
+[<img alt="website" src="https://img.shields.io/badge/Jnaraujo.com-%2312100E.svg?&style=for-the-badge&logo=appveyor&logoColor=white&color=blueviolet" />](https://jnaraujo.com/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge">](https://www.linkedin.com/in/jnaraujo/)
 
 <!-- 
@@ -20,7 +18,7 @@ I'm currently studying Computer Engineering at Universidade Estadual de Feira de
 
 ## 📊 My Github Stats
 
-![jnaraujo's github stats](https://github-readme-stats.vercel.app/api?username=jnaraujo&theme=dracula)
+![jnaraujo's github stats](https://github-readme-streak-stats.herokuapp.com/?user=jnaraujo&theme=dracula&hide_border=true)
 
 <details>
   <summary><b>📈 Most Used Languages</b></summary><br>
