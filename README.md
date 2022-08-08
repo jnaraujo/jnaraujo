@@ -1,11 +1,14 @@
 ### Hey there 👋
+<img 
+width="150px"
+align="right" src="https://camo.githubusercontent.com/ddabca49cb950ff1377c8452d7ec32d017b07780/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3734353335343532353935383939363133382e6769663f763d31" />
 
 <p align="left"> My name is Jonatas. I'm a Brazilian front-end developer who loves to develop user-focused applications.<br> I’am currently working with ReactJS (w/ NextJS) and Typescript, but I've also developed projects with Python, Javascript, Java etc.<br> </p>
 
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="20" alt="styled-components" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>    
+<code><img height="20" alt="styled-components" src="https://camo.githubusercontent.com/1e328c6b68ff37c9e982f80e08e28ad553feed7389dab709fa90210521538226/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3438302f312a496f686e7732614f513545426768566f714b413756412e706e67"></code>    
 
 ## 📫 You can reach me on:
 
