@@ -20,14 +20,14 @@ align="right" src="https://camo.githubusercontent.com/ddabca49cb950ff1377c8452d7
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jnaraujo/)
 [<img src="https://img.shields.io/badge/My%20Website-jnaraujo.vercel.app-green?style=for-the-badge">](https://jnaraujo.vercel.app/) -->
 
-## 📊 My Github Stats
 
-![jnaraujo's github stats](https://github-readme-streak-stats.herokuapp.com/?user=jnaraujo&theme=dracula&hide_border=true)
 
 <details>
-  <summary><b>📈 Most Used Languages</b></summary><br>
+  <summary><b>📊 My Github Stats</b></summary><br>
   
-  [![jnaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jnaraujo&layout=compact&hide_title=true&theme=dracula&hide_border=true&langs_count=5&v=2)](https://github.com/anuraghazra/github-readme-stats)
+  ![jnaraujo's github stats](https://github-readme-streak-stats.herokuapp.com/?user=jnaraujo&theme=dracula&hide_border=true)
+  
+  ![jnaraujo's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jnaraujo&layout=compact&hide_title=true&theme=dracula&hide_border=true&langs_count=5&v=2)
   
 </details>
 <!--
