@@ -23,7 +23,7 @@ align="right" src="https://camo.githubusercontent.com/ddabca49cb950ff1377c8452d7
 
 
 <details>
-  <summary><b>📊 My Github Stats</b></summary><br>
+  <summary><h3>📊 My Github Stats</h3></summary><br>
   
   ![jnaraujo's github stats](https://github-readme-streak-stats.herokuapp.com/?user=jnaraujo&theme=dracula&hide_border=true)
   
