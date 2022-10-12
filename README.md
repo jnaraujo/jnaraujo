@@ -4,7 +4,7 @@
 
 <div>
 
-<img height="30" alt="stuff i use" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,git,vite,styledcomponents,nodejs,sass,vscode&perline=20" />
+<img height="30" alt="stuff i use" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,git,vite,jest,styledcomponents,nodejs,sass,vscode&perline=20" />
 
 </div>
 
