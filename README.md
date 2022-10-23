@@ -3,9 +3,7 @@
 <p align="left"> My name is Jonatas. I'm a Brazilian front-end developer who loves to develop user-focused applications.<br> I’am currently working with ReactJS (w/ NextJS), React Native and TypeScript, but I've also developed projects with C, Python, JavaScript, Java, etc.<br> </p>
 
 <div>
-
 <img height="30" alt="stuff i use" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,git,vite,jest,styledcomponents,nodejs,sass,vscode&perline=20" />
-
 </div>
 
 #### 📫 You can reach me on:
