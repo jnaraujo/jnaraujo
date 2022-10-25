@@ -1,6 +1,5 @@
 <samp>
-
-## Hey there 👋
+<h2>Hey there 👋</h2>
 
 <p align="left"> My name is Jonatas. I'm a Brazilian front-end developer who loves to develop user-focused applications.<br> I’am currently working with ReactJS (w/ NextJS), React Native and TypeScript, but I've also developed projects with C, Python, JavaScript, Java, etc.<br> </p>
 
