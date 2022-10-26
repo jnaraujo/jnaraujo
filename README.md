@@ -9,7 +9,7 @@
 <img height="30" alt="stuff i use" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,git,vite,jest,styledcomponents,nodejs,sass,vscode&perline=20" />
 </div>
 
-#### 📫 You can reach me on:
+### 📫 You can reach me on:
 
 [<img alt="website" src="https://img.shields.io/badge/Jnaraujo.com-%2312100E.svg?&style=for-the-badge&logo=appveyor&logoColor=white&color=blueviolet" />](https://jnaraujo.com/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge">](https://www.linkedin.com/in/jnaraujo/)
