@@ -1,6 +1,7 @@
 <h3>Hey there 👋</h3>
 
-<p align="left">I'm a Brazilian front-end developer who loves to develop user-focused applications.
+<p align="left">
+  I'm a brazilian front-end developer who loves to develop user-focused applications.
 </p>
 
 <div>
