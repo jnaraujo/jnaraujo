@@ -1,17 +1,13 @@
-<h3>Hey there 👋</h3>
-
-<p align="left">
-  I'm a brazilian front-end developer who loves to develop user-focused applications.
-</p>
-
-<div>
-<img height="30" alt="stuff i use" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,git,vite,jest,styledcomponents,nodejs,sass,vscode&perline=20" />
-</div>
-
-### 📫 You can reach me on:
-
-[<img alt="website" src="https://img.shields.io/badge/Jnaraujo.com-%2312100E.svg?&style=for-the-badge&logo=appveyor&logoColor=white&color=blueviolet" />](https://jnaraujo.com/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge">](https://www.linkedin.com/in/jnaraujo/)
+<samp align="left">
+  <h3>Hey there 👋</h3>
+  <p>I'm a brazilian front-end developer who loves to develop user-focused applications.</p>
+  
+  <h3>📫 You can reach me on:</h3>
+  <ul>
+    <li><a href="https://jnaraujo.com/">jnaraujo.com</a></li>
+    <li><a href="https://www.linkedin.com/in/jnaraujo/">linkedin</a></li>
+  </ul>
+</samp>
 
 <!--
 **jnaraujo/jnaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
