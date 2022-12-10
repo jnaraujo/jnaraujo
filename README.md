@@ -1,6 +1,6 @@
 <samp align="left">
   <h3>Hey there 👋</h3>
-  <p>I'm a brazilian front-end developer who loves to develop user-focused applications.</p>
+  <p>I'm a brazilian developer who loves to develop user-focused applications.</p>
   
   <h3>📫 You can reach me on:</h3>
   <ul>
