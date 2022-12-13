@@ -1,5 +1,5 @@
 <samp align="left">
-  <h3>Hey there 👋</h3>
+  <h3 style="margin: 0;">Hey there 👋</h3>
   <p>I'm a brazilian developer who loves to develop user-focused applications.</p>
   
   <h3>📫 You can reach me on:</h3>
