@@ -1,7 +1,7 @@
 <samp align="left">
   <h3>Hey there 👋</h3>
   <p>I'm a brazilian developer who creates user-focused applications. <br />
-  I also like to <a href="https://jnaraujo.com/blog">write</a> about what I'm doing, learning and thinking.</p>
+  I also like <a href="https://jnaraujo.com/blog">to write</a> about what I'm <a href="https://jnaraujo.com/projetos">doing</a>, learning and thinking.</p>
   <h3>📫 You can reach me on:</h3>
   <ul>
     <li><a href="https://jnaraujo.com/">jnaraujo.com</a></li>
