@@ -5,7 +5,8 @@
   <h3>📫 You can reach me on:</h3>
   <ul>
     <li><a href="https://jnaraujo.com/">jnaraujo.com</a></li>
-    <li><a href="https://www.linkedin.com/in/jnaraujo/">linkedin.com/in/jnaraujo/</a></li>
+    <li><a href="https://www.linkedin.com/in/jnaraujo/">linkedin.com/in/jnaraujo</a></li>
+    <li><a href="https://leetcode.com/jnaraujo/">leetcode.com/jnaraujo</a></li>
   </ul>
 </samp>
 
