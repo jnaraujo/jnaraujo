@@ -1,5 +1,5 @@
 <samp align="left">
-  Hey there!
+  software developer and bug fixer
 </samp>
 
 <!--
