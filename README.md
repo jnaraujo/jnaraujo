@@ -1,10 +1,5 @@
-
-
 <samp align="left">
-  <a href="https://jnaraujo.com/">jnaraujo.com</a> <br />
-  <a href="https://jnaraujo.com/blog">jnaraujo.com/blog</a> <br />
-  <a href="https://www.linkedin.com/in/jnaraujo/">linkedin.com/in/jnaraujo</a> <br />
-  <a href="https://leetcode.com/jnaraujo/">leetcode.com/jnaraujo</a> <br />
+  Hey there!
 </samp>
 
 <!--
