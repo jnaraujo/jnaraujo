@@ -1,7 +1,3 @@
-<samp align="left">
-  software developer and bug fixer
-</samp>
-
 <!--
 **jnaraujo/jnaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
